@@ -1,0 +1,2 @@
+0x00 写法
+      select id,to_char(paied_at, 'MM') as month from user_payment_history
